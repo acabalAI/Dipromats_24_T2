@@ -18,7 +18,7 @@ Ensure Python is installed, and prepare to install several dependencies required
 
 ## Additional Information
 
-A comprehensive conference paper detailing the system is available in the repository at [Conference Paper](AI-Portfolio/assets/documents/Dipromat_24_CEUR_AlbertoCaballero.pdf).
+A comprehensive conference paper detailing the system is available in the repository at [Conference Paper](Dipromat_24_CEUR_AlbertoCaballero.pdf).
 This paper provides further insights into the system's design, methodology, and performance metrics.
 The system's revolutionary multiagent, multisignal approach sets a new standard in narrative detection and analysis, achieving superior performance compared to the baseline and other competing models. For detailed performance metrics and comparison, refer to the conference paper.
 
